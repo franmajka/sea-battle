@@ -2,8 +2,7 @@
 
 class IPlayer {
 public:
-  IPlayer() {}
 
 private:
-  
+
 };
